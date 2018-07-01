@@ -5,6 +5,7 @@
     - [Adversarial Autoencoders](https://github.com/fducau/AAE_pytorch)
     - [A implementation of WaveNet with fast generation](https://github.com/vincentherrmann/pytorch-wavenet)
     - [A fast and differentiable QP solver for PyTorch.](https://github.com/locuslab/qpth)
+    - [A few tutorials on getting started with PyTorch and TorchText for sentiment analysis.](https://github.com/bentrevett/pytorch-sentiment-analysis)
     - [A method to generate speech across multiple speakers](https://github.com/facebookresearch/loop)
     - [A model for style-specific music generation](https://github.com/calclavia/DeepJ) :star:
     - [A natural language processing toolkit using state-of-the-art deep learning models.](https://github.com/allenai/allennlp) :star:
@@ -12,6 +13,7 @@
     - [Anuvada: Interpretable Models for NLP using PyTorch](https://github.com/Sandeep42/anuvada)
     - [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
     - [A PyTorch Implementation for Triplet Networks](https://github.com/andreasveit/triplet-network-pytorch)
+    - [A pytorch implementation of Detectron.](https://github.com/roytseng-tw/Detectron.pytorch)
     - [A PyTorch implementation of MobileNetV2](https://github.com/tonylins/pytorch-mobilenet-v2)
     - [A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
@@ -41,6 +43,7 @@
     - [InferSent is a sentence embeddings method that provides semantic sentence representations.](https://github.com/facebookresearch/InferSent)
     - [LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.](https://github.com/sujithv28/Deep-Leafsnap)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
+    - [Minimal PyTorch implementation of YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
     - [Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch](https://github.com/keon/seq2seq)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [Open source person re-identification library in python](https://github.com/Cysu/open-reid) :star:
@@ -50,8 +53,11 @@
     - [PyTorch Implementation of Autoencoding Variational Inference for Topic Models](https://github.com/hyqneuron/pytorch-avitm)
     - [PyTorch implementation of convolutional networks-based text-to-speech synthesis models](https://github.com/r9y9/deepvoice3_pytorch)
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
+    - [PyTorch implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/PyTorch-GAN)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
+    - [Pytorch implementation of the U-Net for image semantic segmentation, with dense CRF post-processing](https://github.com/milesial/Pytorch-UNet)
     - [Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/ceshine/fast-neural-style)
+    - [Pytorch Implementation of PixelCNN++](https://github.com/pclucas14/pixel-cnn-pp)
     - [Pytorch implement of Person re-identification baseline.](https://github.com/layumi/Person_reID_baseline_pytorch)
     - [pytorch implementation of grammar variational autoencoder](https://github.com/episodeyang/grammar_variational_autoencoder)
     - [PyTorch implementation of Global Vectors for Word Representation](https://github.com/2014mchidamb/TorchGlove)
@@ -61,6 +67,7 @@
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
     - [PyTorch Neural Turing Machine (NTM)](https://github.com/loudinthecloud/pytorch-ntm)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
+    - [Pytorch yolo3](https://github.com/marvis/pytorch-yolo3)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Semantic Image Segmentation in Pytorch](https://github.com/warmspringwinds/dense-ai)
     - [Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetshah1995/pytorch-semseg)
@@ -173,6 +180,8 @@
     - [TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer) :star:
     - [Tensorflow implementation of Facebook TagSpace](https://github.com/flrngel/TagSpace-tensorflow)
     - [Tensorflow implementation of attention mechanism for text classification tasks.](https://github.com/ilivans/tf-rnn-attention)
+    - [Tensorflow Implementation of Convolutional Neural Network for Relation Extraction](https://github.com/roomylee/cnn-relation-extraction)
+    - [Tensorflow implementation of DeepFM for CTR prediction.](https://github.com/ChenglongChen/tensorflow-DeepFM)
     - [Tensorflow implementation of Dynamic Coattention Networks for Question Answering.](https://github.com/marshmelloX/dynamic-coattention-network)
     - [Tensorflow implementation of fast neural style transfer](https://github.com/ghwatson/faststyle)
     - [Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation](https://github.com/shekkizh/FCN.tensorflow)
@@ -215,6 +224,7 @@
     - [Keras implementation of Deep Clustering](https://github.com/jcsilva/deep-clustering)
     - [Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/yhenon/keras-frcnn)
     - [Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
+    - [Keras implementation of yolo v3 object detection.](https://github.com/xiaochus/YOLOv3)
     - [Keras package for region-based convolutional neural networks](https://github.com/broadinstitute/keras-rcnn)
     - [Python toolbox to create adversarial examples that fool neural networks](https://github.com/bethgelab/foolbox)
     - [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)

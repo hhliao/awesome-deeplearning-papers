@@ -39,12 +39,14 @@
 - Disguised Face Identification (DFI) with Facial KeyPoints using Spatial Fusion Convolutional Network. [`arxiv`](https://arxiv.org/abs/1708.09317)
 - DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing. [`arxiv`](https://arxiv.org/abs/1702.05743)
 - Dual-Path Convolutional Image-Text Embedding. [`arxiv`](https://arxiv.org/abs/1711.05535) [`code`](https://github.com//layumi/Image-Text-Embedding)
+- End-to-end Recovery of Human Shape and Pose. [`arxiv`](https://arxiv.org/abs/1712.06584) [`code`](https://github.com/akanazawa/hmr)
 - End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design. [`arxiv`](https://arxiv.org/abs/1708.09427) [`code`](https://github.com/lishen/end2end-all-conv)
 - End-to-end weakly-supervised semantic alignment. [`arxiv`](https://arxiv.org/abs/1712.06861) [`pytorch`](https://github.com/ignacio-rocco/weakalign)
 - Estimated Depth Map Helps Image Classification. [`arxiv`](https://arxiv.org/abs/1709.07077) [`code`](https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification)
 - Exercise Motion Classification from Large-Scale Wearable Sensor Data Using Convolutional Neural Networks. [`arxiv`](https://arxiv.org/abs/1610.07031)
 - Extreme 3D Face Reconstruction: Looking Past Occlusions. [`arxiv`](https://arxiv.org/abs/1712.05083) [`code`](https://github.com//anhttran/extreme_3d_faces)
 - Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car. [`arxiv`](https://arxiv.org/abs/1704.07911) :star:
+- FaceBoxes: A CPU Real-time Face Detector with High Accuracy. [`arxiv`](https://arxiv.org/abs/1708.05234) [`code`](https://github.com/zeusees/FaceBoxes)
 - Face Detection using Deep Learning: An Improved Faster RCNN Approach. [`arxiv`](https://arxiv.org/abs/1701.08289)
 - Fader Networks: Manipulating Images by Sliding Attributes. [`arxiv`](https://arxiv.org/abs/1706.00409) [`pytorch`](https://github.com//facebookresearch/FaderNetworks) :star:
 - Fast Image Processing with Fully-Convolutional Networks. [`arxiv`](https://arxiv.org/abs/1709.00643) [`code`](https://github.com/CQFIO/FastImageProcessing)
@@ -69,6 +71,7 @@
 - Learning to Segment Every Thing. [`arxiv`](https://arxiv.org/abs/1711.10370)
 - Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image. [`arxiv`](https://arxiv.org/abs/1701.00295)
 - Linear Disentangled Representation Learning for Facial Actions. [`arxiv`](https://arxiv.org/abs/1701.03102) [`code`](https://github.com/eglxiang/FacialAU.)
+- Loss Max-Pooling for Semantic Image Segmentation. [`arxiv`](https://arxiv.org/abs/1704.02966) [`pytorch`](https://github.com/BelBES/mpl.pytorch)
 - Mask R-CNN. [`arxiv`](https://arxiv.org/abs/1703.06870) [`caffe`](https://github.com/jasjeetIM/Mask-RCNN) [`mxnet`](https://github.com/TuSimple/mx-maskrcnn) :star:
 - MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels. [`arxiv`](https://arxiv.org/abs/1712.05055) :star:
 - Mix-and-Match Tuning for Self-Supervised Semantic Segmentation. [`arxiv`](http://mmlab.ie.cuhk.edu.hk/projects/M&M/) [`code`](https://github.com//liuziwei7/mix-and-match)

@@ -3,18 +3,22 @@
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
 - [188 examples of artificial intelligence in action](https://poo.ai/)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
+- [A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision) :star:
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
 - [A curated list of awesome resources related to capsule networks](https://github.com/aisummary/awesome-capsule-networks)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
+- [A list of papers on Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan) :star:
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
-- [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
+- [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) :star:
 - [A curated list of resources for Chinese NLP](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
 - [A curated list of robotics libraries and software](https://github.com/jslee02/awesome-robotics-libraries)
 - [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
+- [Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
 - [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)](https://github.com/arthchan2003/AIDL_KB)
+- [An awesome Data Science repository to learn and apply for real world problems.](https://github.com/bulutyazilim/awesome-datascience)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
 - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
@@ -35,12 +39,14 @@
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
+- [Awesome Math](https://github.com/llSourcell/learn_math_fast)
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Awesome MXNet](https://github.com//chinakook/Awesome-MXNet)
+- [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
-- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl) :star:
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
@@ -68,8 +74,10 @@
 - [Enumerate diverse machine learning training tricks.](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 - [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
+- [Graph Convolutional Networks (GCNs)](https://github.com/sungyongs/graph-based-nn)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
 - [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
+- [List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems) :star:
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -96,6 +104,7 @@
 - [The awesome and classic papers in recommendation system](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch](https://github.com/ritchieng/the-incredible-pytorch) :star:
+- [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) :star:
 - [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Use PyTorch to implement some classic frameworks](https://github.com/sunshineatnoon/Paper-Implementations)
 - [Various math-related things in Python code](https://github.com/calebmadrigal/math-with-python)
